@@ -4,7 +4,7 @@
 
 This project is the italian version of [Visualizing Twitch Communities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) by [KiranGershenfeld](https://github.com/KiranGershenfeld).
 
-The project's aim is to map communities of streamers on Twitch.tv based on shared viewership. The data is collected from the Twitch API and visualized in Gephi. The complete graph can be viewed at 
+The project's aim is to map communities of streamers on Twitch.tv based on shared viewership. The data is collected from the Twitch API and visualized in Gephi. The complete graph can be viewed at [https://cinci-git.github.io/twitch-graph/](https://cinci-git.github.io/twitch-graph/).
 
 ## Data
 
