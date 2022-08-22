@@ -5,3 +5,4 @@ data_collection/data.json
 data_collection/__pycache__
 twitch_graph.gephi
 twitch_graph_july.gephi
+access.txt
